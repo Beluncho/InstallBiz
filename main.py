@@ -32,7 +32,7 @@ app.add_middleware(
 # ============ КОНФИГУРАЦИЯ ============
 API_BASE_URL = "http://91.199.149.128:18001"  # Реальный URL из задания
 CANDIDATE_ID = "beluncho.github.io"  # Твой ID
-DOWNLOAD_DELAY = (15, 20)
+DOWNLOAD_DELAY = (2, 6)
 
 # ============ ХРАНИЛИЩЕ ============
 class Storage:
